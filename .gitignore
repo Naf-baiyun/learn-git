@@ -1,0 +1,63 @@
+# 编译产出目录
+**/target/
+**/bin/
+**/build/
+**/out/
+**/classes/
+
+# 构建工具相关
+.gradle/
+build/
+.gradle/
+.mvn/
+.mvn/wrapper/
+gradle/
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+
+# 依赖文件
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# IDE 配置文件
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.factorypath
+.nbx/
+.nbattrs
+*.swp
+*.swo
+
+# 日志文件
+*.log
+logs/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 开发环境配置文件
+.env
+*.properties
+*.settings
+*.cfg
+*.conf
+
+# 测试相关
+test-output/
+reports/
+coverage/
+.vertx/
+.tests/
